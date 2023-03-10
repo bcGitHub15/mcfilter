@@ -1,0 +1,43 @@
+# Format: McCode with text headers
+# URL: http://www.mccode.org
+# Creator: McStas 3.1 - Nov. 24, 2021
+# Instrument: Bl3WFrontAdjGridBack.instr
+# Ncount: 1890637973
+# Trace: no
+# Gravitation: no
+# Seed: 1676173266746701
+# Directory: /Users/bcollett/Documents/mcstas/Bl3WFrontAdjGridBack_20230211_224106
+# Param: left=-0.025
+# Param: right=0.025
+# Param: bot=-0.025
+# Param: top=0.025
+# Date: Sat Feb 11 23:20:48 2023 (1676175648)
+# type: array_1d(500)
+# Source: BL3WFrontAdjGridBack (Bl3WFrontAdjGridBack.instr)
+# component: wavelength_monitor_0
+# position: 0 0 8
+# title: Wavelength monitor
+# Ncount: 1890637973
+# filename: LMon00csv.dat
+# statistics: X0=4.33428; dX=2.18618;
+# signal: Min=0; Max=406091; Mean=36239.5;
+# values: 1.81198e+07 350249 16318
+# xvar: L
+# yvar: (I,I_err)
+# xlabel: Wavelength [AA]
+# ylabel: Intensity
+# xlimits: 0 30
+# variables: L I I_err N
+0.03 0 0 0 
+0.09 0 0 0 
+0.15 0 0 0 
+0.21 0 0 0 
+0.27 0 0 0 
+0.33 0 0 0 
+0.39 0 0 0 
+0.45 0 0 0 
+0.51 0 0 0 
+0.57 0 0 0 
+0.63 0 0 0 
+0.69 0 0 0 
+0.75 0 0 0 
